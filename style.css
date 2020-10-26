@@ -63,6 +63,14 @@ html {
   cursor: pointer;
 }
 
+.hero-divider {
+  height: 1px;
+  width: 89px;
+  background-color: white;
+  margin-top: 30px;
+  margin-bottom: 44px;
+}
+
 .hero-button span {
   opacity: 0.9;
 }
